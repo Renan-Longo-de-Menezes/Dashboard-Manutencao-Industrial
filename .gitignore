@@ -1,0 +1,38 @@
+
+---
+
+## 📄 .gitignore
+
+```gitignore
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dados grandes (descomente se quiser ignorar o CSV)
+# dados_manutencao.csv
+
+# Logs
+*.log
