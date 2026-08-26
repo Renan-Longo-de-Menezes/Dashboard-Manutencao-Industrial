@@ -96,7 +96,12 @@ Facilitar a tomada de decisão de gestores e coordenadores de manutenção por m
 	└── README.md              # Este arquivo
 
 🎨 Capturas de Tela
-	Em breve — adicione aqui prints do dashboard rodando!
+	<img width="2128" height="431" alt="image" src="https://github.com/user-attachments/assets/88bdfb83-da9e-4029-b163-946b63b8276e" />
+	<img width="2196" height="960" alt="image" src="https://github.com/user-attachments/assets/ae13c826-a975-4115-b66a-68a8c83673c4" />
+	<img width="2128" height="898" alt="image" src="https://github.com/user-attachments/assets/a23dd191-f50d-4d47-9bc8-de73f61ee373" />
+	<img width="2128" height="845" alt="image" src="https://github.com/user-attachments/assets/c88cf7cc-eb7a-4005-9024-72dd50d954c5" />
+	<img width="559" height="961" alt="image" src="https://github.com/user-attachments/assets/469f4024-f8f4-4f22-8bcb-4f1c5cbf20a3" />
+
 
 
 ---
