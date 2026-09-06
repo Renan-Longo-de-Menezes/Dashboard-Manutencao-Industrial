@@ -2,9 +2,9 @@ import re
 from collections import Counter
 from io import BytesIO
 
-import pandas as pd 
-import plotly.express as px 
-import streamlit as st 
+import pandas as pd
+import plotly.express as px
+import streamlit as st
 
 # ----------------------------------------------------------------------
 # Configuração da página
